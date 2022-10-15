@@ -1,0 +1,89 @@
+DOLLAR COST AVERAGING v1.0.0
+----------------------------
+Wielkość pozycji: 22.88
+Interwał cenowy: 3%
+Procent profitu: 2%
+Ilość pozycji: 40
+Współczynnik zwiększania: 0%
+----------------------------
+Safety order 0 = 18.09
+Safety order 1 = 17.5473
+Safety order 2 = 17.0046
+Safety order 3 = 16.4619
+Safety order 4 = 15.9192
+Safety order 5 = 15.3765
+Safety order 6 = 14.8338
+Safety order 7 = 14.2911
+Safety order 8 = 13.7484
+Safety order 9 = 13.2057
+Safety order 10 = 12.663
+Safety order 11 = 12.1203
+Safety order 12 = 11.5776
+Safety order 13 = 11.0349
+Safety order 14 = 10.4922
+Safety order 15 = 9.9495
+Safety order 16 = 9.4068
+Safety order 17 = 8.8641
+Safety order 18 = 8.3214
+Safety order 19 = 7.7787
+Safety order 20 = 7.236
+Safety order 21 = 6.6933
+Safety order 22 = 6.1506
+Safety order 23 = 5.6079
+Safety order 24 = 5.0652
+Safety order 25 = 4.5225
+Safety order 26 = 3.9798
+Safety order 27 = 3.4371
+Safety order 28 = 2.8944
+Safety order 29 = 2.3517
+Safety order 30 = 1.809
+Safety order 31 = 1.2663
+Safety order 32 = 0.7236
+Safety order 33 = 0.1809
+Safety order 34 = -0.3618
+Safety order 35 = -0.9045
+Safety order 36 = -1.4472
+Safety order 37 = -1.9899
+Safety order 38 = -2.5326
+Safety order 39 = -3.0753
+----------------------------
+Próg dla 18.09 = 18.4518
+Próg dla 17.5473 = 18.1708
+Próg dla 17.0046 = 17.8868
+Próg dla 16.4619 = 17.5997
+Próg dla 15.9192 = 17.3093
+Próg dla 15.3765 = 17.0154
+Próg dla 14.8338 = 16.7179
+Próg dla 14.2911 = 16.4165
+Próg dla 13.7484 = 16.111
+Próg dla 13.2057 = 15.8012
+Próg dla 12.663 = 15.4867
+Próg dla 12.1203 = 15.1673
+Próg dla 11.5776 = 14.8427
+Próg dla 11.0349 = 14.5123
+Próg dla 10.4922 = 14.1758
+Próg dla 9.9495 = 13.8327
+Próg dla 9.4068 = 13.4825
+Próg dla 8.8641 = 13.1243
+Próg dla 8.3214 = 12.7575
+Próg dla 7.7787 = 12.3812
+Próg dla 7.236 = 11.9942
+Próg dla 6.6933 = 11.5953
+Próg dla 6.1506 = 11.1829
+Próg dla 5.6079 = 10.7549
+Próg dla 5.0652 = 10.3089
+Próg dla 4.5225 = 9.84151
+Próg dla 3.9798 = 9.34834
+Próg dla 3.4371 = 8.8232
+Próg dla 2.8944 = 8.257
+Próg dla 2.3517 = 7.63542
+Próg dla 1.809 = 6.93356
+Próg dla 1.2663 = 6.10078
+Próg dla 0.7236 = 4.99992
+Próg dla 0.1809 = 2.82871
+Próg dla -0.3618 = 3.75945
+Próg dla -0.9045 = 4.37639
+Próg dla -1.4472 = 4.90162
+Próg dla -1.9899 = 5.38561
+Próg dla -2.5326 = 5.84819
+Próg dla -3.0753 = 6.29928
